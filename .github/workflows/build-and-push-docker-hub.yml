@@ -30,7 +30,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: danztran/ci-cd:lastest
+          tags: danztran/ci-cd:latest
 
 
   pull-and-up:
